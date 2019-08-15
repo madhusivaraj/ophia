@@ -2,22 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0caa5bd6-b0b1-4da4-a7c9-0b5d3f6f7b06" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/images/index_gallery/ig1.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/index_gallery/ig10.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/index_gallery/ig11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/index_gallery/ig12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/index_gallery/ig13.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/index_gallery/ig14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/index_gallery/ig15.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/index_gallery/ig16.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/index_gallery/ig2.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/index_gallery/ig3.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/index_gallery/ig4.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/index_gallery/ig5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/index_gallery/ig6.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/index_gallery/ig7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/index_gallery/ig8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/index_gallery/ig9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_gallery/insta1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_gallery/insta10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_gallery/insta11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_gallery/insta12.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_gallery/insta2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_gallery/insta3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_gallery/insta4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_gallery/insta5.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_gallery/insta6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_gallery/insta7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_gallery/insta8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index_gallery/insta9.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="118" column="54" selection-start-line="118" selection-start-column="54" selection-end-line="118" selection-end-column="54" />
+            <state relative-caret-position="270">
+              <caret line="107" column="58" selection-start-line="107" selection-start-column="58" selection-end-line="107" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -248,8 +244,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="118" column="54" selection-start-line="118" selection-start-column="54" selection-end-line="118" selection-end-column="54" />
+        <state relative-caret-position="270">
+          <caret line="107" column="58" selection-start-line="107" selection-start-column="58" selection-end-line="107" selection-end-column="58" />
         </state>
       </provider>
     </entry>
