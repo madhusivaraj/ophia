@@ -6,6 +6,11 @@ body {
   color: #000000;
   background: url(../images/marble_background.jpg); }
 
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 #page {
   position: relative;
   overflow-x: hidden;
